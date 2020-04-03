@@ -10,6 +10,7 @@ const FILES_TO_CACHE = [
 
 // creating static cache for when page loads
 const CACHE_NAME = "static-budget-cache-v1";
+const DATA_STATIC_CACHE = "data-budget-cache-v1";
 // runtime cache for offline use
 const RUNTIME_CACHE = "runtime-cache";
 
